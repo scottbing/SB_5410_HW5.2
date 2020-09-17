@@ -22,9 +22,36 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.radio">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/venv" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.moviedb">
+    <configuration name="moviedb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/moviedb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="radio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="sets" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -46,7 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sb_5410_cwk51" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="radio_cost" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="sets" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,7 +85,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/sb_5410_cwk51.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/radio_cost.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tryit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="radio_remain" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="sets" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,7 +106,28 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/tryit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/radio_remain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sb_5410_cwk52" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/sb_5410_cwk52.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,9 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.moviedb" />
+        <item itemvalue="Python.radio_remain" />
+        <item itemvalue="Python.radio_cost" />
         <item itemvalue="Python.radio" />
-        <item itemvalue="Python.sb_5410_cwk51" />
-        <item itemvalue="Python.tryit" />
+        <item itemvalue="Python.sb_5410_cwk52" />
       </list>
     </recent_temporary>
   </component>
@@ -110,26 +160,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1554" height="245" key="GridCell.Tab.0.bottom" timestamp="1600296214624">
+    <state width="1554" height="245" key="GridCell.Tab.0.bottom" timestamp="1600306028805">
       <screen x="0" y="23" width="1920" height="997" />
     </state>
     <state width="1554" height="245" key="GridCell.Tab.0.bottom/0.23.1920.1001@0.23.1920.1001" timestamp="1600290514510" />
-    <state width="1554" height="245" key="GridCell.Tab.0.bottom/0.23.1920.997@0.23.1920.997" timestamp="1600296214624" />
-    <state width="1554" height="245" key="GridCell.Tab.0.center" timestamp="1600296214623">
+    <state width="1554" height="245" key="GridCell.Tab.0.bottom/0.23.1920.997@0.23.1920.997" timestamp="1600306028805" />
+    <state width="1554" height="245" key="GridCell.Tab.0.center" timestamp="1600306028804">
       <screen x="0" y="23" width="1920" height="997" />
     </state>
     <state width="1554" height="245" key="GridCell.Tab.0.center/0.23.1920.1001@0.23.1920.1001" timestamp="1600290514510" />
-    <state width="1554" height="245" key="GridCell.Tab.0.center/0.23.1920.997@0.23.1920.997" timestamp="1600296214623" />
-    <state width="1554" height="245" key="GridCell.Tab.0.left" timestamp="1600296214623">
+    <state width="1554" height="245" key="GridCell.Tab.0.center/0.23.1920.997@0.23.1920.997" timestamp="1600306028804" />
+    <state width="1554" height="245" key="GridCell.Tab.0.left" timestamp="1600306028804">
       <screen x="0" y="23" width="1920" height="997" />
     </state>
     <state width="1554" height="245" key="GridCell.Tab.0.left/0.23.1920.1001@0.23.1920.1001" timestamp="1600290514510" />
-    <state width="1554" height="245" key="GridCell.Tab.0.left/0.23.1920.997@0.23.1920.997" timestamp="1600296214623" />
-    <state width="1554" height="245" key="GridCell.Tab.0.right" timestamp="1600296214623">
+    <state width="1554" height="245" key="GridCell.Tab.0.left/0.23.1920.997@0.23.1920.997" timestamp="1600306028804" />
+    <state width="1554" height="245" key="GridCell.Tab.0.right" timestamp="1600306028805">
       <screen x="0" y="23" width="1920" height="997" />
     </state>
     <state width="1554" height="245" key="GridCell.Tab.0.right/0.23.1920.1001@0.23.1920.1001" timestamp="1600290514510" />
-    <state width="1554" height="245" key="GridCell.Tab.0.right/0.23.1920.997@0.23.1920.997" timestamp="1600296214623" />
+    <state width="1554" height="245" key="GridCell.Tab.0.right/0.23.1920.997@0.23.1920.997" timestamp="1600306028805" />
     <state x="641" y="176" key="SettingsEditor" timestamp="1600289224082">
       <screen x="0" y="23" width="1920" height="997" />
     </state>
