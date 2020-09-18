@@ -1,5 +1,4 @@
 import requests
-
 FILM_LIST_PATH = "http://api.themoviedb.org/3/discover/movie"
 CREDITS_LIST_PATH ="http://api.themoviedb.org/3/movie"
 RELEASE_DATE = "1990-01-01"
@@ -13,10 +12,7 @@ WHALB_ID = "13240"      # Mark Whalberg
 SCARLETT_ID = "1245"    # Scarlett Johansson
 BRADLEY_ID = "51329"    # Bradley Cooper
 JENNIFER_ID = "72129"   # Jennifer Lawrence
-CHRIS_ID = "16828"      # Chis Evans
-TOM_ID = "31"           # Tom Hanks
-KATE_ID = "11661"       # Kate Hudson
-MATTHEW_ID = "10297"    # "Matthew McConaughey
+
 
 API_KEY = "380c3a8372deba596a494c0912183d65"
 
@@ -38,7 +34,7 @@ def data_to_set(data):
     for res in data['results']: #For each element in results array
         film_set.add(res['title'])
 
-    #print("film_set: ", film_set)
+    print("film_set: ", film_set)
     return film_set
 
 
@@ -66,8 +62,6 @@ def main():
     #print("Bradley: ", lawrence_data)
     lawrence_films = data_to_set(lawrence_data)
     print("Jennifer Lawrence films since", RELEASE_DATE, ":", lawrence_films)
-
-    print("Intersection: ", lawrence_films.intersection(bradley_films))
 
     # ### get credits data for a film id and take out cast
     # cast = get_cast_list("514593")['cast']

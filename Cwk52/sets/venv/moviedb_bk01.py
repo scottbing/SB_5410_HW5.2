@@ -1,22 +1,16 @@
 import requests
-
 FILM_LIST_PATH = "http://api.themoviedb.org/3/discover/movie"
 CREDITS_LIST_PATH ="http://api.themoviedb.org/3/movie"
 RELEASE_DATE = "1990-01-01"
-BACON_ID = "4724"
-PAUL_ID = "781"
+BACON_ID = "4724"       # Kevin Bacon
+PAUL_ID = "781"         # Paul
 SCARLETT_ID = "1245"    # Scarlett Johansson
 BRADLEY_ID = "51329"    # Bradley Cooper
 JENNIFER_ID = "72129"   # Jennifer Lawrence
-BRADLEY_ID = "51329"    # Bradley Cooper
 WHALB_ID = "13240"      # Mark Whalberg
-SCARLETT_ID = "1245"    # Scarlett Johansson
-BRADLEY_ID = "51329"    # Bradley Cooper
-JENNIFER_ID = "72129"   # Jennifer Lawrence
-CHRIS_ID = "16828"      # Chis Evans
+Chris_ID = "16828"      # Chis Evans
 TOM_ID = "31"           # Tom Hanks
-KATE_ID = "11661"       # Kate Hudson
-MATTHEW_ID = "10297"    # "Matthew McConaughey
+
 
 API_KEY = "380c3a8372deba596a494c0912183d65"
 
@@ -38,7 +32,7 @@ def data_to_set(data):
     for res in data['results']: #For each element in results array
         film_set.add(res['title'])
 
-    #print("film_set: ", film_set)
+    print("film_set: ", film_set)
     return film_set
 
 
@@ -58,16 +52,14 @@ def main():
     print("Kevin Bacon films since", RELEASE_DATE, ":", bacon_films)
 
     bradley_data = get_film_list(BRADLEY_ID)
-    #print("Bradley: ", bradley_data)
+    print("Bradley: ", bradley_data)
     bradley_films = data_to_set(bradley_data)
     print("Bradley Cooper films since", RELEASE_DATE, ":", bradley_films)
 
     lawrence_data = get_film_list(JENNIFER_ID)
-    #print("Bradley: ", lawrence_data)
+    print("Bradley: ", lawrence_data)
     lawrence_films = data_to_set(lawrence_data)
     print("Jennifer Lawrence films since", RELEASE_DATE, ":", lawrence_films)
-
-    print("Intersection: ", lawrence_films.intersection(bradley_films))
 
     # ### get credits data for a film id and take out cast
     # cast = get_cast_list("514593")['cast']

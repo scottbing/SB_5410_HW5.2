@@ -3,11 +3,8 @@ import requests
 FILM_LIST_PATH = "http://api.themoviedb.org/3/discover/movie"
 CREDITS_LIST_PATH ="http://api.themoviedb.org/3/movie"
 RELEASE_DATE = "1990-01-01"
-BACON_ID = "4724"
-PAUL_ID = "781"
-SCARLETT_ID = "1245"    # Scarlett Johansson
-BRADLEY_ID = "51329"    # Bradley Cooper
-JENNIFER_ID = "72129"   # Jennifer Lawrence
+BACON_ID = "4724"       # Kevin Bacon
+PAUL_ID = "781"         #
 BRADLEY_ID = "51329"    # Bradley Cooper
 WHALB_ID = "13240"      # Mark Whalberg
 SCARLETT_ID = "1245"    # Scarlett Johansson
