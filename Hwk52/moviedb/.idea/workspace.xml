@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f0bbdb3-a367-48de-a964-f2e9eac33ed1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hcRqklW0MIQ2d6PhZp2eJw2kPE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/venv" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.sb_5410_hwk52">
+    <configuration name="Moviedb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="moviedb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Moviedb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sb_5410_hwk52" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="moviedb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/sb_5410_hwk52.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tryradio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="moviedb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/tryradio.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tryradio_bk01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="moviedb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/tryradio_bk01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tryradio_bk03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="moviedb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/tryradio_bk03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.sb_5410_hwk52" />
+        <item itemvalue="Python.tryradio" />
+        <item itemvalue="Python.tryradio_bk03" />
+        <item itemvalue="Python.Moviedb" />
+        <item itemvalue="Python.tryradio_bk01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f0bbdb3-a367-48de-a964-f2e9eac33ed1" name="Default Changelist" comment="" />
+      <created>1600308586667</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600308586667</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1554" height="245" key="GridCell.Tab.0.bottom" timestamp="1600478237222">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state width="1554" height="245" key="GridCell.Tab.0.bottom/0.23.1920.1002@0.23.1920.1002" timestamp="1600478237222" />
+    <state width="1554" height="245" key="GridCell.Tab.0.bottom/0.23.1920.1003@0.23.1920.1003" timestamp="1600474413414" />
+    <state width="1554" height="245" key="GridCell.Tab.0.bottom/0.23.1920.1004@0.23.1920.1004" timestamp="1600460557157" />
+    <state width="1554" height="245" key="GridCell.Tab.0.bottom/0.23.1920.1005@0.23.1920.1005" timestamp="1600460279174" />
+    <state width="1554" height="245" key="GridCell.Tab.0.bottom/0.23.1920.994@0.23.1920.994" timestamp="1600360137626" />
+    <state width="1554" height="245" key="GridCell.Tab.0.bottom/0.23.1920.995@0.23.1920.995" timestamp="1600309007954" />
+    <state width="1554" height="245" key="GridCell.Tab.0.center" timestamp="1600478237221">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state width="1554" height="245" key="GridCell.Tab.0.center/0.23.1920.1002@0.23.1920.1002" timestamp="1600478237221" />
+    <state width="1554" height="245" key="GridCell.Tab.0.center/0.23.1920.1003@0.23.1920.1003" timestamp="1600474413414" />
+    <state width="1554" height="245" key="GridCell.Tab.0.center/0.23.1920.1004@0.23.1920.1004" timestamp="1600460557156" />
+    <state width="1554" height="245" key="GridCell.Tab.0.center/0.23.1920.1005@0.23.1920.1005" timestamp="1600460279173" />
+    <state width="1554" height="245" key="GridCell.Tab.0.center/0.23.1920.994@0.23.1920.994" timestamp="1600360137626" />
+    <state width="1554" height="245" key="GridCell.Tab.0.center/0.23.1920.995@0.23.1920.995" timestamp="1600309007953" />
+    <state width="1554" height="245" key="GridCell.Tab.0.left" timestamp="1600478237221">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state width="1554" height="245" key="GridCell.Tab.0.left/0.23.1920.1002@0.23.1920.1002" timestamp="1600478237221" />
+    <state width="1554" height="245" key="GridCell.Tab.0.left/0.23.1920.1003@0.23.1920.1003" timestamp="1600474413413" />
+    <state width="1554" height="245" key="GridCell.Tab.0.left/0.23.1920.1004@0.23.1920.1004" timestamp="1600460557156" />
+    <state width="1554" height="245" key="GridCell.Tab.0.left/0.23.1920.1005@0.23.1920.1005" timestamp="1600460279172" />
+    <state width="1554" height="245" key="GridCell.Tab.0.left/0.23.1920.994@0.23.1920.994" timestamp="1600360137626" />
+    <state width="1554" height="245" key="GridCell.Tab.0.left/0.23.1920.995@0.23.1920.995" timestamp="1600309007952" />
+    <state width="1554" height="245" key="GridCell.Tab.0.right" timestamp="1600478237221">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state width="1554" height="245" key="GridCell.Tab.0.right/0.23.1920.1002@0.23.1920.1002" timestamp="1600478237221" />
+    <state width="1554" height="245" key="GridCell.Tab.0.right/0.23.1920.1003@0.23.1920.1003" timestamp="1600474413414" />
+    <state width="1554" height="245" key="GridCell.Tab.0.right/0.23.1920.1004@0.23.1920.1004" timestamp="1600460557156" />
+    <state width="1554" height="245" key="GridCell.Tab.0.right/0.23.1920.1005@0.23.1920.1005" timestamp="1600460279173" />
+    <state width="1554" height="245" key="GridCell.Tab.0.right/0.23.1920.994@0.23.1920.994" timestamp="1600360137626" />
+    <state width="1554" height="245" key="GridCell.Tab.0.right/0.23.1920.995@0.23.1920.995" timestamp="1600309007953" />
+    <state width="1554" height="303" key="GridCell.Tab.1.bottom" timestamp="1600476926609">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state width="1554" height="303" key="GridCell.Tab.1.bottom/0.23.1920.1002@0.23.1920.1002" timestamp="1600476926609" />
+    <state width="1554" height="303" key="GridCell.Tab.1.bottom/0.23.1920.1003@0.23.1920.1003" timestamp="1600476770571" />
+    <state width="1554" height="303" key="GridCell.Tab.1.center" timestamp="1600476926609">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state width="1554" height="303" key="GridCell.Tab.1.center/0.23.1920.1002@0.23.1920.1002" timestamp="1600476926609" />
+    <state width="1554" height="303" key="GridCell.Tab.1.center/0.23.1920.1003@0.23.1920.1003" timestamp="1600476770570" />
+    <state width="1554" height="303" key="GridCell.Tab.1.left" timestamp="1600476926609">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state width="1554" height="303" key="GridCell.Tab.1.left/0.23.1920.1002@0.23.1920.1002" timestamp="1600476926609" />
+    <state width="1554" height="303" key="GridCell.Tab.1.left/0.23.1920.1003@0.23.1920.1003" timestamp="1600476770570" />
+    <state width="1554" height="303" key="GridCell.Tab.1.right" timestamp="1600476926609">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state width="1554" height="303" key="GridCell.Tab.1.right/0.23.1920.1002@0.23.1920.1002" timestamp="1600476926609" />
+    <state width="1554" height="303" key="GridCell.Tab.1.right/0.23.1920.1003@0.23.1920.1003" timestamp="1600476770570" />
+  </component>
+</project>
